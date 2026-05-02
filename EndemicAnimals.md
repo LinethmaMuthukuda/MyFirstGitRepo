@@ -1,3 +1,4 @@
+# Koalas
 ![Koalas](https://raw.githubusercontent.com/LinethmaMuthukuda/MyFirstGitRepo/refs/heads/main/Images/photo-coala.avif)
 Endemic animals are species that are found only in a specific geographic region and nowhere else in the world. These animals often evolve unique characteristics because they are isolated from other populations, adapting to the particular climate, food sources, and environmental conditions of their habitat. Islands, rainforests, and remote mountain ranges are common places where endemic species develop.
 
